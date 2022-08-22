@@ -1,4 +1,4 @@
 # Salsa20
 
-Made for fun. Don't use for anything important ^_^
+Made for fun and not tested. Don't use for anything important ^_^
 
